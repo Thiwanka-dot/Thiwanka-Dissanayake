@@ -562,12 +562,19 @@ footer {
 
     section{
         margin: 0 1.3rem;
+        padding-top: 5vh;
+        padding-bottom: 5vh;
     }
 
     section img {
-        width: 300px;
-        height: 300px;
+        width: 250px;
+        height: 250px;
         border-radius: 50%;
+    }
+
+    .info{
+        gap: 1rem;
+        padding-top: 5rem;
     }
 
     .info h2{
