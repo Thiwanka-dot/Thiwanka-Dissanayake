@@ -559,6 +559,10 @@ footer {
     form{
         padding: 1rem;
     }
+    
+    .logo h1{
+        display: none;
+    }
 
     section{
         margin: 0 1.3rem;
